@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **computer networking**
 
-- 📫 How to reach me **vinayaksrivastava323@gmail.com**
+- 📫 Reach me at **vinayaksrivastava323@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
