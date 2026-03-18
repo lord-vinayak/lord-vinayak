@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lord-vinayak&label=Profile%20views&color=0e75b6&style=flat" alt="lord-vinayak" /> </p>
 
-- 🔭 I’m currently working with **LogicBoots Pvt. Ltd.**
+- 🔭 I’m currently exploring internship opportunities for Summer 2026
 
 - 🌱 I’m currently learning **computer networking**
 
