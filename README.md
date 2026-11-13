@@ -1,5 +1,5 @@
 # Me:
-<br>i'm a senior undergrad at NIT. i love to code and build cool things. very active on twitter! reach me: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayaksrivastava323@gmail.com) 
+<br>i'm a senior undergrad at NIT. i love to code and build cool things. very active on twitter! reach me: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayaksrivastava323@gmail.com) ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Flord_vinayak_)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lord-vinayak&label=Profile%20views&color=0e75b6&style=flat" alt="lord-vinayak" /> </p>
 
 # Tech Stack:
